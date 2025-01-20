@@ -4,4 +4,5 @@
 -- | 302750   |
 -- +----------+
 
-
+SElECT COUNT(*) 
+FROM reviews;
